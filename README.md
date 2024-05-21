@@ -3,7 +3,7 @@
 <h2>  Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/josgrc711/post-install-config)
+  - [Setting up a VPN in a virtual machine and doing a few exercises](https://github.com/josgrc711/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/josgrc711/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/josgrc711/configure-ad)
