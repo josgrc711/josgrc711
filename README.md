@@ -4,8 +4,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Setting up a VPN in a virtual machine and doing a few exercises](https://github.com/josgrc711/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/josgrc711/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+  - [Creating 2 VM's, installing Wireshark and filtering for ICMP traffic](https://github.com/josgrc711/ticket-lifecycle)
+- <b>Microsoft Azure</b>Crea
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/josgrc711/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/josgrc711/azure-network-protocols)
 
